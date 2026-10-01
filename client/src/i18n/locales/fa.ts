@@ -1,8 +1,7 @@
-// Auto-extracted from src/i18n.ts by scripts/split-i18n.mjs.
-// Locale: en. Lazy-loaded via dynamic import in src/i18n.ts.
+// Locale: fa. Lazy-loaded via dynamic import in src/i18n.ts.
 import type { Translations } from "../types";
 
-const en: Translations = {
+const fa: Translations = {
 
 
 // Console tabs (multi-console)
