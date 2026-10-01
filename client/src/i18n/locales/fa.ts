@@ -3731,4 +3731,4 @@ notif_first_run_ready_body: "ps5upload روی {host} در حال اجراست.",
 "pkglib.staged_install_note": "نصب از حافظه‌ی خود PS5 (FW {fw})… برخی فریم‌ورها بسته‌ها از این مسیر را رد می‌کنند. اگر رد شد، بسته روی کنسول می‌ماند؛ به‌جایش با استریم و نصب از یک کامپیوتر نصبش کنید.",
 };
 
-export default en;
+export default fa;
